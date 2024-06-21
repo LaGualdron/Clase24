@@ -1,0 +1,36 @@
+.navbar-brand{
+    color: blueviolet !important;
+    font-style: italic;
+}
+
+.carousel-inner{
+    width: 20% !important;
+    height: 20% !important;
+    border-radius: 20%;
+}
+
+#carouselExampleCaptions{
+    display:flex;
+    justify-content:center;
+    margin: 2em 2em 2em;
+}
+
+#boton1, #boton2, #boton3{
+    background: black;
+}
+
+.display-3{
+    font-style: italic;
+}
+
+.container{
+    font-style: italic;
+}
+
+h3{
+    font-style:italic;
+}
+
+.containerla{
+    margin: 5em 5em 5em;
+}
