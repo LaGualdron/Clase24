@@ -1,7 +1,7 @@
-.navbar-brand{
-    color: blueviolet !important;
-    font-style: italic;
+.nav{
+    border: rgb(146, 146, 218) solid;
 }
+
 
 .carousel-inner{
     width: 20% !important;
